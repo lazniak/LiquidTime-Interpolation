@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Advanced Time Control for Animation Interpolation</h3>
-  <img src="/api/placeholder/800/200" alt="LiquidTime Banner">
+  <img src="node.png" alt="LiquidTime Banner">
 </div>
 
 ## Overview
