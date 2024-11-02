@@ -22,7 +22,7 @@ LiquidTime is a powerful frame interpolation node for ComfyUI that gives you pre
 1. Navigate to your ComfyUI custom_nodes directory
 2. Clone this repository:
 ```bash
-git clone https://github.com/Lazlo20/LiquidTime
+git clone https://github.com/lazniak/LiquidTime-Interpolation.git
 ```
 3. Install requirements:
 ```bash
