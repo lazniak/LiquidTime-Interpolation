@@ -26,7 +26,7 @@ git clone https://github.com/lazniak/LiquidTime-Interpolation.git
 ```
 3. Install requirements:
 ```bash
-cd LiquidTime
+cd LiquidTime-Interpolation
 pip install -r requirements.txt
 ```
 4. Restart ComfyUI
