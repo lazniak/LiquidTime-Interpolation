@@ -31,7 +31,7 @@ class LiquidTimeNode:
         return {
             "required": {
                 "images": ("IMAGE",),
-                "target_frames": ("INT", {"default": 60, "min": 2, "max": 1000}),
+                "target_frames": ("INT", {"default": 60, "min": 2, "max": 100000}),
                 "start_curve": ("INT", {"default": 0, "min": -100, "max": 100}),
                 "middle_curve": ("INT", {"default": 0, "min": -100, "max": 100}),
                 "middle_moment": ("INT", {"default": 50, "min": 0, "max": 100}),
